@@ -1,0 +1,5 @@
+c:\users\zhehuang\documents\visual studio 2010\Projects\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
+c:\users\zhehuang\documents\visual studio 2010\Projects\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
+c:\users\zhehuang\documents\visual studio 2010\Projects\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.exe
+c:\users\zhehuang\documents\visual studio 2010\Projects\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\zhehuang\documents\visual studio 2010\Projects\HTTPServer\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
